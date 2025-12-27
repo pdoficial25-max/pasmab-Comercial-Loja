@@ -1,0 +1,7 @@
+{
+  "name": "PASMAB COMERCIAL - Streetwear Premium",
+  "description": "Uma página de destino de streetwear premium em modo escuro com detalhes em laranja vibrante, focada na venda de ténis exclusivos com uma experiência urbana moderna.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
